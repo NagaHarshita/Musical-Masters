@@ -1,0 +1,23 @@
+.upcoming{
+	font-size: 25px;
+}
+.upcoming h2{
+	color: #f44336;
+}
+#downtext{
+	font-size: 28px;
+}
+.Performances{
+
+	display: grid;
+	grid-template-columns: 70% 30%;
+}
+
+.date{
+	font-size: 18px;
+    margin: 14px;
+}
+.date a{
+	font-size: 18px;	
+	color: #E41B17;
+}

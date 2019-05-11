@@ -1,0 +1,128 @@
+*
+{
+	margin: auto ;
+	background-repeat: no-repeat;
+	/*font-style: italic;*/
+	font-family: candara;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+a{ 
+ 	margin-bottom: 2px;
+	text-decoration: none;
+	color: #ffffff;
+	padding: 10px;
+	font-size: 30px;
+}
+.heading a{
+margin: 0px;
+text-decoration:none;
+padding: 10px;
+font-size: 20px;	
+}
+.stable{
+   
+	background:rgb(0,0,0);
+	background:rgba(0,0,0,0.7);
+	position: fixed;
+	min-height: 20px;
+	margin: 0;
+	color:white ;/*#666362*/
+    width: 100%;
+    padding: 5px;
+	border-bottom: #e8491d 2px solid;
+	}
+.stable h1{
+	float: left;
+	font-style: italic;
+	color:white; /*#E41B17*/
+}
+#im{
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.transtext .text{
+    
+	position: absolute;
+    top: 30%;
+    left: -20%;
+	color: white;
+	font-style: italic;
+	font-size: 25px;
+	background:rgb(255,0,0);
+	background:rgba(255,0,0,0.5);	
+	margin-left: 40%;
+	padding: 20px;
+}
+.navigate{
+	margin-top: 0px;
+	margin-right: 50px; 
+	float: right;
+}
+.image{
+	display: grid;
+	grid-template-columns:70% 30%; 
+}
+#aboutcomposer{
+	color: black;
+	margin-left: 50px;
+	font-size: 18px;
+	font-style: italic;
+}
+#aboutcomposer h1{
+	font-size: 21px;
+	color: #C35817;
+}
+.songbox{
+	background-color: #E5E4E2;
+	
+}
+
+.songbox button{
+	padding: 0% 0%;
+	align-items: center;
+	background:rgba(255,0,0,0.6);
+	height: 55px;
+	width: 70px;
+}
+.songbox h2	{
+	color: black;
+}
+.songbox li{
+	color: black;
+	margin: 0px;
+	font-style: italic;
+	font-size: 25px;
+	text-decoration: none;
+}
+footer{
+
+    padding: 20px;
+	margin-top: 15px;		
+	color: white;
+	font-size: 20px;	
+	background-color: #CD853F;
+	text-align: center;
+}
+.fa {
+  padding: 20px; 
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa-facebook {
+  background:white;
+  color:#CD853F ;
+}
+.fa-twitter {
+  background:white;
+  color: #CD853F ;
+}
+.fa-google{
+	background:white;
+  color: #CD853F ;
+}

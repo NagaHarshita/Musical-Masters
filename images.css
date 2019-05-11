@@ -1,0 +1,18 @@
+.transtext1 .text1{
+	top: 25%;
+	left: -25%;
+}
+.concert{
+	width: 90%;
+	display: grid;	
+	grid-template-columns: 1fr 1fr 1fr 1fr; 
+	grid-column-gap:2em; 
+
+}
+.concert1{
+	width: 80%;
+	display: grid;	
+	grid-template-columns: 1fr 1fr 1fr; 
+	grid-column-gap:2em; 
+
+}

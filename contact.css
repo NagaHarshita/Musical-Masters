@@ -1,0 +1,36 @@
+.form{
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-column-gap: 1em;
+}
+.social{
+	color: black;
+    font-size: 22px;
+    background-color: #E5E4E2;
+}
+.social a{
+	font-size: 22px;
+	color: #E41B17;
+}
+.social h2{
+	color: #E41B17;
+}
+input[type=text], input[type=email] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 10px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+ .login button{
+ 	align-self: center;
+ 	width: 110%;
+	border: none;
+	margin: 5px 0 10px 0;
+	padding: 15px 25px;
+	font-size: 20px;
+	color: white;
+	background:rgba(255,0,0,0.6);
+	size: auto;
+}
